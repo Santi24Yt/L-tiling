@@ -1,0 +1,10 @@
+Requirements
+- bash
+- gcc
+- less
+
+Build:
+$ ./build.sh
+
+Run:
+$ ./run.sh <n>

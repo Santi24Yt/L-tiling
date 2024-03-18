@@ -23,7 +23,7 @@ int main(int argc, char* argv[])
 {
   if (argc < 2)
   {
-    fprintf(stderr, "Use:\n$ ./adoq <n>\n");
+    fprintf(stderr, "Use:\n$ ./run.sh <n>\n");
     exit(1);
   }
 
