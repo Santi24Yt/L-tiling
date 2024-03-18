@@ -8,3 +8,7 @@ $ ./build.sh
 
 Run:
 $ ./run.sh <n>
+
+Printing every step takes a LOT of time,
+for faster execution (but without steps in result)
+comment out lines 165-166
