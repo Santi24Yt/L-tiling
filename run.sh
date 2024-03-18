@@ -1,4 +1,4 @@
 cd src/ &&
 ./adoq $1 &&
-less +G -S -R results.ans ;
+less +G -S -R -n results.ans ;
 cd ..
