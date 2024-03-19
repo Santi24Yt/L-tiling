@@ -53,6 +53,7 @@ int main(int argc, char* argv[])
   printsqgrid(grid, m);
 
   free(grid);
+  fclose(fp);
 }
 
 int zpow(int a, int b)
